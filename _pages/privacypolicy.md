@@ -6,8 +6,7 @@ include_in_header: false
 
 # Privacy Policy
 
-**Last updated**  
-December 2024
+Last Updated: December 2024
 
 <br>
 
@@ -79,4 +78,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns about this Privacy Policy or the data practices of PrayPal™, please contact us at:
 
-help@praypal.io
+<help@praypal.io>
