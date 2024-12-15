@@ -15,7 +15,9 @@ December 2024
 PrayPal™ does not collect, store, or transmit any personal or identifiable user data to our servers or third parties.
 
 Location Data:
+
 • PrayPal™ uses your device's location data to provide accurate prayer times, qibla direction, and weather updates based on your current location.
+
 • This location data is processed locally on your device and is not shared with us or any third parties.
 
 <br>
