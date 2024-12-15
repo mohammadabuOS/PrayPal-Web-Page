@@ -12,6 +12,7 @@ December 2024
 <br>
 
 ## 1. Information We Collect
+
 PrayPal™ does not collect, store, or transmit any personal or identifiable user data to our servers or third parties.
 
 Location Data:
