@@ -22,7 +22,7 @@ Location Data:
 
 <br>
 
-### 2. How We Use Your Information
+## 2. How We Use Your Information
 We use the location data solely for:
 • Calculating accurate prayer times based on your geographical position.
 • Calculating accurate qibla direction based on your geographical position.
@@ -36,7 +36,7 @@ We use the location data solely for:
 
 <br>
 
-### 4. Permissions
+## 4. Permissions
 PrayPal™ requests access to your location solely for the purpose of delivering the app's core functionality. You can manage location permissions at any time in your device's settings.
 
 <br>
@@ -52,5 +52,16 @@ Since PrayPal™ processes all data locally on your device and does not transmit
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 7. Children's Privacy
+PrayPal™ is safe for users of all ages. We do not knowingly collect any data from children or adults, ensuring a secure and private experience for everyone.
+
+<br>
+
+## 8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected here, and the updated policy will include the revised effective date.
+
+<br>
+
+## 9. Contact Us
+If you have any questions or concerns about this Privacy Policy or the data practices of PrayPal™, please contact us at:
+help@praypal.io
