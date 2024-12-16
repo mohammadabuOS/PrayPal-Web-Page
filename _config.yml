@@ -85,11 +85,11 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.5
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#223a5e"
 
 link_color                                : "#c39e6d"
 
@@ -97,14 +97,14 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#223a5e"
+feature_title_color                       : "#ffffff"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#c39e6d"
-feature_icons_background_color            : "#223a5e"
+feature_icons_background_color            : "#ffffff"
 
 social_icons_foreground_color             : "#c39e6d"
-social_icons_background_color             : "#223a5e"
+social_icons_background_color             : "#ffffff"
 
 footer_text_color                         : "#666666"
 
